@@ -90,3 +90,4 @@ export default function AIInsights({ insights }: AIInsightsProps) {
     </div>
   )
 }
+//riddhima contribution
