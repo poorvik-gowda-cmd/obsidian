@@ -176,3 +176,4 @@ function getMethodColor(method: string): string {
   }
   return colors[method] || "bg-muted text-muted-foreground"
 }
+//riddhima contribution
