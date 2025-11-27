@@ -1,0 +1,4 @@
+{
+  "/api/blueprint/parse/route": "app/api/blueprint/parse/route.js",
+  "/page": "app/page.js"
+}
