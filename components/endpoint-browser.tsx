@@ -140,3 +140,4 @@ function getStatusColor(status: number): string {
   if (status < 500) return "bg-yellow-500/20 text-yellow-300"
   return "bg-red-500/20 text-red-300"
 }
+//riddhima contribution
